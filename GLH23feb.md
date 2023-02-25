@@ -5,4 +5,4 @@
 
 * Creating file handlers and modules for retrieving information
 
-* Did two labs on Vocareum labs using AWS Cloud9 IDE
+*  Did two labs on Vocareum labs using AWS Cloud9 IDE
