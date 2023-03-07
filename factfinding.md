@@ -462,7 +462,7 @@ Continuous integration refers to the build and unit testing stages of the softwa
 
 Here's a typical continuous integration workflow that Semaphore users practice on a daily basis: A developer creates a new branch of code in GitHub, makes changes in the code, and commits them. When the developer pushes her work to GitHub, Semaphore builds the code and then runs the automated test suite.
 
-![Github](/Douments/Markdown/githubci.jpg)
+![Github Continous Integration workflow](/Documents/Markdown/githubci.jpg)
 
 4)  **What is Continuous delivery?**
 
